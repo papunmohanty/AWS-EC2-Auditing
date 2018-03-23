@@ -158,5 +158,5 @@ if __name__ == "__main__":
 
     environment_input = input("Enter the Environment Name: ")
     region_input = input("Enter the Region Name: ")
-    prod_audit = AmazonEC2Audit(environment_input, region_input)
-    prod_audit.ec2_resource_iteration()
+    audit_object = AmazonEC2Audit(environment_input, region_input)
+    audit_object.ec2_resource_iteration()
