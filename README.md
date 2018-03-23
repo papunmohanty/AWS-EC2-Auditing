@@ -1,4 +1,4 @@
-# This script use to get the AWS EC2 detail in an Excel Sheet
+# This script use to get the AWS EC2 details in an Excel Sheet
 
 #### Note: This script uses Python3.x
 
@@ -6,7 +6,7 @@
 1. boto3
 2. pandas
 
-# Installation of libraries prior to running this script
+# Installation of libraries prior to running the script
 
 #### **NOTE:** Please use pip for `python3` version
 
@@ -15,7 +15,7 @@
 2. pip install pandas
 ```
 
-# Your AWS Credential files should look like this
+# Your AWS Credential file should look like this
 ```sh
 [qa]
 aws_access_key_id = XXXXXXXXXXXXXXXXXXX
@@ -30,7 +30,7 @@ aws_access_key_id = XXXXXXXXXXXXXXXXXXX
 aws_secret_access_key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
-# Running this script:
+# Running the script:
 colning this repository or download this script and then running the script by using following commands in your `cli`
 ```sh
 $ git clone https://github.com/papunmohanty/AWS-EC2-Auditing.git
