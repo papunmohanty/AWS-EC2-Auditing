@@ -1,4 +1,4 @@
-# This script use to get the AWS EC2 details in an Excel Sheet
+# This script is use to get the AWS EC2 details in an Excel Sheet
 
 #### Note: This script uses Python3.x
 
