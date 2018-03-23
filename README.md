@@ -34,7 +34,7 @@ aws_secret_access_key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 colning this repository or download this script and then running the script by using following commands in your `cli`
 ```sh
 $ git clone https://github.com/papunmohanty/AWS-EC2-Auditing.git
-$ python boto3WithPandas_the_OOP_Way.py
+$ python EC2_Audit.py
 ```
 ##### It will ask for the `environment` and `region` details like:
 ```sh
